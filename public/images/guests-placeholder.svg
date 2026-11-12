@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 800">
+  <rect width="1400" height="800" fill="#22313d"/>
+  <path d="M0 570h1400v230H0z" fill="#17232d"/>
+  <path d="M180 570h1040m-950 0-30 170m870-170 30 170" stroke="#7497b2" stroke-opacity=".27" stroke-width="5"/>
+  <circle cx="410" cy="350" r="62" fill="none" stroke="#b6cee0" stroke-opacity=".29" stroke-width="4"/>
+  <path d="M300 547c10-107 44-152 110-152s100 45 110 152m264-197c0-36 29-65 65-65s65 29 65 65-29 65-65 65-65-29-65-65zm-35 197c8-76 28-110 100-110s92 34 100 110" fill="none" stroke="#e9e4da" stroke-opacity=".23" stroke-width="5"/>
+  <path d="M660 510h76m-38-38v76" stroke="#7497b2" stroke-opacity=".4" stroke-width="3"/>
+  <text x="50" y="743" fill="#b6cee0" font-family="Arial,sans-serif" font-size="14" letter-spacing="3">GUESTS &amp; ATMOSPHERE PHOTO PLACEHOLDER</text>
+</svg>

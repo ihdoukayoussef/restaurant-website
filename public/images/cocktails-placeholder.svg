@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 800">
+  <rect width="1000" height="800" fill="#263642"/>
+  <path d="M0 610h1000v190H0z" fill="#17232d"/>
+  <path d="M340 270h320l-138 178v145h-44V448z" fill="none" stroke="#b6cee0" stroke-opacity=".55" stroke-width="5"/>
+  <path d="M359 297h282l-96 128H454z" fill="#7497b2" fill-opacity=".12"/>
+  <path d="M477 593h46m-104 18h162" stroke="#b6cee0" stroke-opacity=".38" stroke-width="4"/>
+  <circle cx="572" cy="326" r="24" fill="none" stroke="#e9e4da" stroke-opacity=".38" stroke-width="3"/>
+  <path d="m571 304 42-45" stroke="#e9e4da" stroke-opacity=".4" stroke-width="3"/>
+  <text x="50" y="743" fill="#b6cee0" font-family="Arial,sans-serif" font-size="14" letter-spacing="3">COCKTAIL PHOTO PLACEHOLDER</text>
+</svg>

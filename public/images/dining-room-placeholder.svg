@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900">
+  <rect width="1200" height="900" fill="#22313d"/>
+  <path d="M80 0v590m170-590v590M950 0v590m170-590v590" stroke="#dfd6c3" stroke-opacity=".1" stroke-width="3"/>
+  <path d="M0 560h1200M0 606h1200" stroke="#7497b2" stroke-opacity=".2"/>
+  <path d="M0 630h1200v270H0z" fill="#17232d"/>
+  <path d="M120 562h960M180 550l-40 180m880-180 40 180" stroke="#8eacc1" stroke-opacity=".24" stroke-width="5"/>
+  <path d="M245 548h170m-205 0v98h238v-98m-146 98v175m54-175v175m466-273h170m-205 0v98h238v-98m-146 98v175m54-175v175" fill="none" stroke="#8eacc1" stroke-opacity=".23" stroke-width="3"/>
+  <text x="54" y="832" fill="#b6cee0" font-family="Arial,sans-serif" font-size="14" letter-spacing="3">DINING ROOM PHOTO PLACEHOLDER</text>
+</svg>

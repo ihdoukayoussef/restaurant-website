@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080">
+  <rect width="1920" height="1080" fill="#151f29"/>
+  <path d="M0 755h1920M0 786h1920" stroke="#7497b2" stroke-opacity=".16"/>
+  <path d="M1010 0v770M1090 0v770M1170 0v770" stroke="#e9e4da" stroke-opacity=".035"/>
+  <path d="M960 760h960M1050 705h870M1140 650h780" stroke="#c6d6e0" stroke-opacity=".13"/>
+  <path d="M1320 1080 1575 762h72l273 318" fill="#7497b2" fill-opacity=".045"/>
+  <circle cx="1460" cy="285" r="138" fill="none" stroke="#7497b2" stroke-opacity=".08"/>
+  <circle cx="1460" cy="285" r="185" fill="none" stroke="#7497b2" stroke-opacity=".05"/>
+  <rect x="90" y="90" width="1740" height="900" fill="none" stroke="#eff3f6" stroke-opacity=".08"/>
+  <text x="145" y="887" fill="#9cbad0" font-family="Arial,sans-serif" font-size="17" letter-spacing="5">CINEMATIC VENUE FILM</text>
+  <text x="145" y="929" fill="#eff3f6" fill-opacity=".52" font-family="Arial,sans-serif" font-size="13" letter-spacing="3">HERO POSTER PLACEHOLDER · REPLACE WITH APPROVED MEDIA</text>
+</svg>

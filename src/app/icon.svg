@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" fill="#101a23"/>
+  <path d="M32 9 53 21v22L32 55 11 43V21z" fill="none" stroke="#7497b2" stroke-width="1"/>
+  <text x="32" y="38" fill="#eff3f6" font-family="Georgia,serif" font-size="18" text-anchor="middle">TM</text>
+</svg>

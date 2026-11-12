@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 80">
+  <rect width="420" height="80" fill="none"/>
+  <path d="M39 10 67 26v28L39 70 11 54V26z" fill="none" stroke="#7497b2" stroke-width="1"/>
+  <text x="39" y="47" fill="#eff3f6" font-family="Georgia,serif" font-size="20" text-anchor="middle">TM</text>
+  <text x="88" y="39" fill="#eff3f6" font-family="Arial,sans-serif" font-size="16" letter-spacing="3">TERRASSE MIAMI</text>
+  <text x="89" y="58" fill="#b6cee0" font-family="Arial,sans-serif" font-size="8" letter-spacing="2.5">CASABLANCA · MOROCCO</text>
+</svg>

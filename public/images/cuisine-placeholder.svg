@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 800">
+  <rect width="1000" height="800" fill="#263642"/>
+  <path d="M0 550h1000v250H0z" fill="#17232d"/>
+  <ellipse cx="500" cy="505" rx="265" ry="53" fill="#dce7ee" fill-opacity=".09" stroke="#7497b2" stroke-opacity=".3" stroke-width="3"/>
+  <ellipse cx="500" cy="488" rx="219" ry="36" fill="none" stroke="#e9e4da" stroke-opacity=".3" stroke-width="2"/>
+  <path d="M375 480c60-80 185-84 250 0-58 52-194 52-250 0z" fill="#7497b2" fill-opacity=".13"/>
+  <path d="M425 456c34-32 99-37 144-4m-102 30c24-21 75-24 112-3" fill="none" stroke="#b6cee0" stroke-opacity=".45" stroke-width="3"/>
+  <text x="50" y="743" fill="#b6cee0" font-family="Arial,sans-serif" font-size="14" letter-spacing="3">FOOD PHOTO PLACEHOLDER</text>
+</svg>
